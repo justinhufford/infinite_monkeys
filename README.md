@@ -1,3 +1,8 @@
+A whimsical Python game of chance where you'll discover if a million monkeys with a million keyboards could indeed write Shakespeare... or at least your name! 
+
+Warning: EXTREMELY addictive (for some reason).
+ChatGPT wrote most of the code.
+
 ```
 
                 ╭╴
